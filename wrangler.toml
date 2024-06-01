@@ -7,9 +7,9 @@ compatibility_date = "2023-05-26"
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-# PROXYIP = "1.2.3.4"
+# PROXYIP = "192.230.115.178"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "3fdcad53-2d6e-42fd-b4f3-2b2cd4b9b2f3"
+UUID = "696c5309-a575-4a65-a5c7-14bdd33eb9bc"
